@@ -3,6 +3,6 @@
 
 int main()
 {
-printf("f2 sample ..  Applicaion 1");
+printf("f2 sample ..  Applicaion 2");
 return 0;
 }
